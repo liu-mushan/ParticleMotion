@@ -5,9 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".signname.MainActivity">
 
-    <liujian.example.com.demo.MySurfaceView
+    <liujian.example.com.demo.signname.MySurfaceView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
